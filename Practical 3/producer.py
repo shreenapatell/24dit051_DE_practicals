@@ -1,0 +1,19 @@
+from kafka import KafkaProducer
+import pandas as pd
+import json
+import time
+
+producer = KafkaProducer(
+    bootstrap_servers='localhost:9092',
+    value_serializer=lambda v: json.dumps(v).encode('utf-8')
+)
+
+df = pd.read_csv("user_logs.csv")
+
+for _, row in df.iterrows():
+    producer.send("activity_logs", row.to_dict())
+    print("Sent:", row["user"])
+    time.sleep(0)
+
+producer.flush()
+print("All messages sent successfully!")

@@ -1,0 +1,222 @@
+[
+    {
+        "transaction_id": 1000,
+        "customer": {
+            "id": 11,
+            "name": "Michael Wagner"
+        },
+        "payment": {
+            "amount": 1075,
+            "method": "Cash"
+        }
+    },
+    {
+        "transaction_id": 1001,
+        "customer": {
+            "id": 32,
+            "name": "Erin Johnston"
+        },
+        "payment": {
+            "amount": 3952,
+            "method": "UPI"
+        }
+    },
+    {
+        "transaction_id": 1002,
+        "customer": {
+            "id": 34,
+            "name": "Diane Harris"
+        },
+        "payment": {
+            "amount": 3919,
+            "method": "Card"
+        }
+    },
+    {
+        "transaction_id": 1003,
+        "customer": {
+            "id": 39,
+            "name": "Eileen Payne"
+        },
+        "payment": {
+            "amount": 421,
+            "method": "UPI"
+        }
+    },
+    {
+        "transaction_id": 1004,
+        "customer": {
+            "id": 38,
+            "name": "Kimberly Ortega"
+        },
+        "payment": {
+            "amount": 1272,
+            "method": "Cash"
+        }
+    },
+    {
+        "transaction_id": 1005,
+        "customer": {
+            "id": 40,
+            "name": "Melanie Reese"
+        },
+        "payment": {
+            "amount": 1399,
+            "method": "Cash"
+        }
+    },
+    {
+        "transaction_id": 1006,
+        "customer": {
+            "id": 33,
+            "name": "Angela Huynh"
+        },
+        "payment": {
+            "amount": 2131,
+            "method": "UPI"
+        }
+    },
+    {
+        "transaction_id": 1007,
+        "customer": {
+            "id": 10,
+            "name": "Kevin Brown"
+        },
+        "payment": {
+            "amount": 3346,
+            "method": "Card"
+        }
+    },
+    {
+        "transaction_id": 1008,
+        "customer": {
+            "id": 36,
+            "name": "Heather Smith"
+        },
+        "payment": {
+            "amount": 2917,
+            "method": "Cash"
+        }
+    },
+    {
+        "transaction_id": 1009,
+        "customer": {
+            "id": 24,
+            "name": "Andrea Sanchez"
+        },
+        "payment": {
+            "amount": 3484,
+            "method": "Card"
+        }
+    },
+    {
+        "transaction_id": 1010,
+        "customer": {
+            "id": 11,
+            "name": "Kimberly Smith"
+        },
+        "payment": {
+            "amount": 3248,
+            "method": "Cash"
+        }
+    },
+    {
+        "transaction_id": 1011,
+        "customer": {
+            "id": 8,
+            "name": "Mary Rodriguez"
+        },
+        "payment": {
+            "amount": 3339,
+            "method": "Card"
+        }
+    },
+    {
+        "transaction_id": 1012,
+        "customer": {
+            "id": 45,
+            "name": "Shannon Gibbs"
+        },
+        "payment": {
+            "amount": 2409,
+            "method": "UPI"
+        }
+    },
+    {
+        "transaction_id": 1013,
+        "customer": {
+            "id": 40,
+            "name": "Matthew Beasley"
+        },
+        "payment": {
+            "amount": 1895,
+            "method": "UPI"
+        }
+    },
+    {
+        "transaction_id": 1014,
+        "customer": {
+            "id": 31,
+            "name": "Matthew Craig"
+        },
+        "payment": {
+            "amount": 3315,
+            "method": "Cash"
+        }
+    },
+    {
+        "transaction_id": 1015,
+        "customer": {
+            "id": 35,
+            "name": "Timothy Alvarez"
+        },
+        "payment": {
+            "amount": 2004,
+            "method": "Card"
+        }
+    },
+    {
+        "transaction_id": 1016,
+        "customer": {
+            "id": 25,
+            "name": "Dennis Sullivan"
+        },
+        "payment": {
+            "amount": 4556,
+            "method": "Card"
+        }
+    },
+    {
+        "transaction_id": 1017,
+        "customer": {
+            "id": 21,
+            "name": "Ana Acosta"
+        },
+        "payment": {
+            "amount": 2198,
+            "method": "Card"
+        }
+    },
+    {
+        "transaction_id": 1018,
+        "customer": {
+            "id": 5,
+            "name": "Shannon Green"
+        },
+        "payment": {
+            "amount": 1667,
+            "method": "UPI"
+        }
+    },
+    {
+        "transaction_id": 1019,
+        "customer": {
+            "id": 48,
+            "name": "Sean Richard"
+        },
+        "payment": {
+            "amount": 735,
+            "method": "UPI"
+        }
+    }
+]

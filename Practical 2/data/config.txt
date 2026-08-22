@@ -1,0 +1,10 @@
+
+
+Server=localhost
+
+Database=CustomerDB
+
+Timeout=60
+
+Version=1.0
+
